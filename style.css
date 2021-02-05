@@ -151,7 +151,6 @@ a {
 .header_main {
     width: 100%;
     float: left;
-    background-image: url(../images/banner.png);
     height: auto;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -424,7 +423,6 @@ button.btn.btn-primary:focus {
     top: 0;
     width: 100%;
     height: 110px;
-    background-image: url(../images/about-top-bg.png);
     z-index: 1;
     background-size: 100%;
     background-position: top center;
@@ -438,7 +436,6 @@ button.btn.btn-primary:focus {
     bottom: 0;
     width: 100%;
     height: 110px;
-    background-image: url(../images/about-bottom-bg.png);
     z-index: 1;
     background-size: 100%;
     background-position: bottom center;
@@ -557,7 +554,6 @@ button.btn.btn-primary:focus {
 .contact_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/contact-bg.png);
     height: auto;
     padding-top: 100px;
     padding-bottom: 100px;
